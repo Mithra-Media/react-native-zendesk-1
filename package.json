@@ -1,5 +1,5 @@
 {
-  "name": "react-native-zendesk",
+  "name": "@crowdform/react-native-zendesk",
   "version": "2.1.1",
   "description": "Zendesk SDK for React Native.",
   "main": "lib/index.js",
@@ -20,10 +20,10 @@
     "android/**/*",
     "*.podspec"
   ],
-  "homepage": "https://github.com/dcvz/react-native-zendesk#readme",
+  "homepage": "https://github.com/crowdform/react-native-zendesk#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dcvz/react-native-zendesk.git"
+    "url": "git+https://github.com/crowdform/react-native-zendesk.git"
   },
   "keywords": [
     "zendesk",
@@ -37,7 +37,7 @@
   "author": "dcvz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dcvz/react-native-zendesk/issues"
+    "url": "https://github.com/crowdform/react-native-zendesk/issues"
   },
   "devDependencies": {
     "@types/react-native": "^0.60.0",
